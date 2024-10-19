@@ -1,3 +1,3 @@
 # My Git Project 
 
-Jake is the **BEST**
+Jake is the **BEST** at everything.
